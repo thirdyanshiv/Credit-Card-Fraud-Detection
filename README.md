@@ -32,3 +32,13 @@ Credit Card Fraud Detection Dataset
 
 creditcard.csv: Contains 284,807 transactions with 31 features.
 
+
+
+
+## Steps to Run the Project
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/credit-card-fraud-detection.git
+cd credit-card-fraud-detection
+
